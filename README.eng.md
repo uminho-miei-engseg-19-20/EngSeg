@@ -8,7 +8,7 @@
 - The slides of the first class were made available.
 - The worksheet for the second lesson was made available, as well as some sample programs.
 - The slides were made available for the second class.
-- The projects proposed for the Engenharia de Segurança course were made available at the ProjetosES directory. Read the [README](ProjectsES/README.md) file.
+- The projects proposed for the Engenharia de Segurança course were made available at the ProjetosES directory. Read the [README](ProjectsES/README.eng.md) file.
 
 
 
