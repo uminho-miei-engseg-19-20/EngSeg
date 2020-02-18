@@ -34,11 +34,13 @@ Consoante o número do seu grupo, para a realização deste projeto deverá cent
 + Grupo 7 e Grupo 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md)
 + Grupo 8 - [OWASP Mobile Application Security Verification Standard (MASVS)](https://mobile-security.gitbook.io/masvs/)
 + Grupo 9 - [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/)
++ Grupo 13 - [Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf)
+
 
 
 ## 2. Projeto 2
 
-Cada grupo vai efetuar investigação sobre ferramentas de qualidade de software e/ou testes de segurança, sendo esperado que no final entreguem um relatório escrito, assim como façam uma apresentação oral (30 minutos) em formato de aula. Como existem vários grupos com 2 elementos, juntaram-se alguns grupos para fazerem o projeto 2.
+Cada grupo vai efetuar investigação sobre ferramentas de qualidade de software e/ou testes de software, sendo esperado que no final entreguem um relatório escrito, assim como façam uma apresentação oral (30 minutos) em formato de aula. Como existem vários grupos com 2 elementos, juntaram-se alguns grupos para fazerem o projeto 2.
 
 O trabalho dos 8 primeiros grupos é efetuado no âmbito de _indicadores de qualidade_ do código/software, podendo tomar como base o trabalho de [The TIOBE Quality Indicator a pragmatic way of measuring code quality](https://www.tiobe.com/files/TIOBEQualityIndicator_v4_3.pdf):
 
@@ -67,6 +69,8 @@ O objetivo destes 8 primeiros grupos é explicarem o que é o indicador de quali
 
 O Grupo 9 irá analisar e explorar as ferramentas [OWASP Code Pulse](https://owasp.org/www-project-code-pulse/) e [OWASP ZAP](https://www.zaproxy.org/), apresentando exemplos básicos e avançados da sua utilização.
 
+O Grupo 13 irá analisar e explorar as ferramentas [Selenium](https://selenium.dev/), [Kritica](https://kritika.io/) e [Deepscan](https://deepscan.io/), apresentando exemplos básicos e avançados da sua utilização.
+
 
 ## 3. Projeto 3
 
@@ -84,6 +88,7 @@ Baseado no que foi aprendido como resultado do Projeto 1 e Projeto 2, cada grupo
 + Grupo 10 - C++
 + Grupo 11 - React
 + Grupo 12 - Scala
++ Grupo 13 - D
 
 No final deverá disponibilizar o código e relatório no github (ou gitlab ou similar), devendo explicitar no relatório:
 

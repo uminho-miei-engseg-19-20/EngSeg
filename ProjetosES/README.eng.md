@@ -32,11 +32,11 @@ Depending on the number of your group, in order to carry out this project you sh
 + Group 7 and Group 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md)
 + Group 8 - [OWASP Mobile Application Security Verification Standard (MASVS)](https://mobile-security.gitbook.io/masvs/)
 + Group 9 - [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/)
-
++ Group 13 - [Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf)
 
 ## 2. Project 2
 
-Each group will carry out research on software quality tools and / or security tests, being expected that in the end they will deliver a written report, as well as make an oral presentation (30 minutes) in class format. 
+Each group will carry out research on software quality tools and / or software tests, being expected that in the end they will deliver a written report, as well as make an oral presentation (30 minutes) in class format. 
 
 The work of the first 8 groups is carried out within the scope of code/software _quality indicators_, and may be based on the work of [The TIOBE Quality Indicator a pragmatic way of measuring code quality](https://www.tiobe.com/files/TIOBEQualityIndicator_v4_3.pdf):
 
@@ -65,7 +65,10 @@ The purpose of these first 8 groups is to explain what the analyzed software qua
 + Group 7 and Group 10 - *Fan out* tools and techniques
 + Group 8 - *Security* tools and techniques
 
+
 Group 9 will analyze and explore the tools [OWASP Code Pulse](https://owasp.org/www-project-code-pulse/) and [OWASP ZAP](https://www.zaproxy.org/), presenting basic and advanced examples of its use.
+
+Group 13 will analyze and explore the tools [Selenium](https://selenium.dev/), [Kritica](https://kritika.io/) and [Deepscan](https://deepscan.io/), presenting basic and advanced examples of its use.
 
 
 ## 3. Project 3
@@ -85,6 +88,7 @@ Based on what was learned as a result of Project 1 and Project 2, each group wil
 + Group 10 - C++
 + Group 11 - React
 + Group 12 - Scala
++ Group 13 - D
 
 At the end, you must make the code and report available on github (or gitlab or similar), and make it explicit in the report:
 
