@@ -150,8 +150,8 @@ Note 2: To obtain the size of the keys and algorithms used, you should:
 1. choose the CA certificate,
 2. select _Base 64-encoded_,
 3. copy the contents of the _Base 64-encoded_ and write to file (e.g. cert.crt),
-4. Insert ----- BEGIN CERTIFICATE ----- at the beginning of the file,
-5. Insert ----- END CERTIFICATE ----- at the end of the file,
+4. Insert -----BEGIN CERTIFICATE----- at the beginning of the file,
+5. Insert -----END CERTIFICATE----- at the end of the file,
 6. Run the following command ``openssl x509 -in cert.crt -text -noout`` (replace cert.crt with the name you gave the file in step 3.)
 
 Note 3: Add to your answer the result of the command  ``openssl x509 -in cert.crt -text -noout``.
