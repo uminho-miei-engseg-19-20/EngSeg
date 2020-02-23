@@ -32,7 +32,7 @@ Depending on the number of your group, in order to carry out this project you sh
 + Group 7 and Group 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md)
 + Group 8 - [OWASP Mobile Application Security Verification Standard (MASVS)](https://mobile-security.gitbook.io/masvs/)
 + Group 9 - [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/)
-+ Group 13 - [Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf)
++ Group 13 and Group 14 - [Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf)
 
 ## 2. Project 2
 
@@ -68,7 +68,7 @@ The purpose of these first 8 groups is to explain what the analyzed software qua
 
 Group 9 will analyze and explore the tools [OWASP Code Pulse](https://owasp.org/www-project-code-pulse/) and [OWASP ZAP](https://www.zaproxy.org/), presenting basic and advanced examples of its use.
 
-Group 13 will analyze and explore the tools [Selenium](https://selenium.dev/), [Kritica](https://kritika.io/) and [Deepscan](https://deepscan.io/), presenting basic and advanced examples of its use.
+Group 13 and Group 14 will analyze and explore the tools [Selenium](https://selenium.dev/), [Kritica](https://kritika.io/) and [Deepscan](https://deepscan.io/), presenting basic and advanced examples of its use.
 
 
 ## 3. Project 3
@@ -89,6 +89,7 @@ Based on what was learned as a result of Project 1 and Project 2, each group wil
 + Group 11 - React
 + Group 12 - Scala
 + Group 13 - D
++ Group 14 - Ruby
 
 At the end, you must make the code and report available on github (or gitlab or similar), and make it explicit in the report:
 
