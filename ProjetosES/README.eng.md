@@ -89,7 +89,7 @@ Based on what was learned as a result of Project 1 and Project 2, each group wil
 + Group 11 - React
 + Group 12 - Scala
 + Group 13 - D
-+ Group 14 - Ruby
++ Group 14 - Javascript
 
 At the end, you must make the code and report available on github (or gitlab or similar), and make it explicit in the report:
 

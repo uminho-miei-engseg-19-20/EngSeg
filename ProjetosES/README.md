@@ -89,7 +89,7 @@ Baseado no que foi aprendido como resultado do Projeto 1 e Projeto 2, cada grupo
 + Grupo 11 - React
 + Grupo 12 - Scala
 + Grupo 13 - D
-+ Grupo 14 - Ruby
++ Grupo 14 - Javascript
 
 No final deverá disponibilizar o código e relatório no github (ou gitlab ou similar), devendo explicitar no relatório:
 
