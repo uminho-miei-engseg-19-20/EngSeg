@@ -3,6 +3,11 @@
 ## Announcements
 
 
+**23/Feb/2020**
+
+At the request of the students, the class from 24/Feb moves to 02/Mar from 17h-20h, in the same room where the classes of this discipline take place.
+
+
 **15/Feb/2019**
 
 - The slides of the first class were made available.

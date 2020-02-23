@@ -2,6 +2,11 @@
 
 ## Avisos
 
+
+**23/Fev/2020**
+
+A pedido dos alunos, a aula de 24/Fev passa para dia 02/Mar das 17h-20h, na mesma sala onde decorrem as aulas desta disciplina.
+
 **18/Fev/2020**
 
 - Foram recebidos os mail com a indicação dos Grupos.
