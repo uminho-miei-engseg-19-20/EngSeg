@@ -2,6 +2,10 @@
 
 ## Announcements
 
+**24/Feb/2020**
+
+Changes to the course projects were finalized, in order to accommodate the existence of groups with 2 elements. Please validate the projects that your group has to carry out.
+
 
 **23/Feb/2020**
 

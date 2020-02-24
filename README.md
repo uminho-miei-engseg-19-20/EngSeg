@@ -2,6 +2,10 @@
 
 ## Avisos
 
+**24/Fev/2020**
+
+Foram finalizadas as alterações aos projetos da disciplina, de modo a acomodarem a existência de grupos com 2 elementos. Por favor valide os projetos que o seu grupo tem de realizar.
+
 
 **23/Fev/2020**
 
