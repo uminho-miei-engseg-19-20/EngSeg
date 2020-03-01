@@ -2,6 +2,12 @@
 
 ## Avisos
 
+**01/Mar/2020**
+
+- Foi disponibilizada a ficha de trabalho para a terceira e quarta aulas, assim como alguns programas de exemplo.
+- Foram disponibilizados os slides para a terceira e quarta aulas.
+
+
 **24/Fev/2020**
 
 Foram finalizadas as alterações aos projetos da disciplina, de modo a acomodarem a existência de grupos com 2 elementos. Por favor valide os projetos que o seu grupo tem de realizar.
