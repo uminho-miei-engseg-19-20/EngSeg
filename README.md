@@ -2,6 +2,13 @@
 
 ## Avisos
 
+**08/Mar/2020**
+
+- Foi enviado mail aos alunos indicando o modo de funcionamento da UC enquanto as aulas estiverem suspensas no campus de Gualtar
+- Foi disponibilizada a ficha de trabalho para a quinta aula, assim como alguns programas de exemplo.
+- Foram disponibilizados os slides para a quinta aula.
+
+
 **01/Mar/2020**
 
 - Foi disponibilizada a ficha de trabalho para a terceira e quarta aulas, assim como alguns programas de exemplo.

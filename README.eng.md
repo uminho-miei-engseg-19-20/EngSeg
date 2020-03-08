@@ -3,6 +3,13 @@
 ## Announcements
 
 
+**08/Mar/2020**
+
+- Email was sent to the students explaining how the chair will work, while classes are suspended in the campus of Gualtar
+- The worksheet for the fifth class was made available, as well as some sample programs.
+- The slides were made available for the fifth class.
+
+
 **01/Mar/2020**
 
 - The worksheet for the third and fourth class were made available, as well as some sample programs.
