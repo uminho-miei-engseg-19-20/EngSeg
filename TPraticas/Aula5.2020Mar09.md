@@ -19,7 +19,7 @@ Notas:
 
 1. Para instalar o node.js e o npm na máquina virtual disponibilizada execute os seguintes comandos na máquina virtual:
   + `sudo su`
-  + `curl -sL https://deb.nodesource.com/setup_11.x | bash -`
+  + `curl -sL https://deb.nodesource.com/setup_12.x | bash -`
   + `apt-get install -y nodejs`
   + `exit`
 
@@ -81,8 +81,8 @@ Nota:
 3. Para arrancar com o servidor snakeCoin execute o seguinte comando na máquina virutal: `python snakecoin-server.experiencia2.2.py &`
 
 4. Para adicionar uma transação (pending transaction) na snakeCoin blockchain, execute o seguinte comando na máquina virtual:
-`curl "localhost:5000/txion" \
-     -H "Content-Type: application/json" \
+`curl "localhost:5000/txion" 
+     -H "Content-Type: application/json" 
      -d '{"from": "akjflw", "to":"fjlakdj", "amount": 3}'`
 
 5. Para minerar a transação (pending transaction), execute o seguinte comando na máquina vistual:
