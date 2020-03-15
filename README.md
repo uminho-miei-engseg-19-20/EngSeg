@@ -2,6 +2,18 @@
 
 ## Avisos
 
+
+**15/Mar/2020**
+
+
+- Foi disponibilizada a ficha de trabalho para a sexta aula, assim como alguma bibliografia.
+- Foram disponibilizados os slides para a sexta aula.
+
+**14/Mar/2020**
+
+- Foi publicado no BlackBoard o modo de funcionamento da UC enquanto as aulas estiverem suspensas no campus de Gualtar, de acordo com as diretrizes da Universidade do Minho.
+
+
 **08/Mar/2020**
 
 - Foi enviado mail aos alunos indicando o modo de funcionamento da UC enquanto as aulas estiverem suspensas no campus de Gualtar

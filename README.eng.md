@@ -3,6 +3,19 @@
 ## Announcements
 
 
+
+**15/Mar/2020**
+
+- The worksheet for the sixth class was made available, as well as some bibliography.
+- The slides were made available for the sixth class.
+
+
+**14/Mar/2020**
+
+
+- Following the guidelines of the University of Minho, it was published on the BlackBoard how the chair will work, while classes are suspended in the campus of Gualtar.
+
+
 **08/Mar/2020**
 
 - Email was sent to the students explaining how the chair will work, while classes are suspended in the campus of Gualtar
