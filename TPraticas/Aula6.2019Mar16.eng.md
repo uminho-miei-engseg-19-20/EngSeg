@@ -16,54 +16,53 @@ Among others, the following documents are available in the Aula6 directory:
 + Several documents provided by ENISA (_European Union Agency for Network and Information Security_) from its [Data Protecion](https://www.enisa.europa.eu/topics/data-protection) web page.
 
 
-#### Question P1.1
+#### Experience 1.1
 
 In this question each group will perform a short review of the Regulation (UE) 2016/679 (RGPD) or the ISO 27552 (_Security techniques - Extension to ISO/IEC 27001 and to ISO/IEC 27002 for privacy management — Requirements and guidelines_) or the _Handbook on European data protection law_, in accordance with the following rules:
 
 + If the group chooses the GDPR, it should review the following article of the regulation and write a short text (between 1/2 and 1 page A4) that reflects on how this regulation article can influence the development of the software. Note that the document has 173 initial recitals, some of which may be relevant to this reflection.
-  - Article 5º - Groups 1, 5, 9, 13
-  - Article 25º - Groups 2, 6, 10, 14
-  - Article 32º - Groups 3, 7, 11
-  - Section 4 (Data Protection Officer) - Groups 4, 8, 12
+  - Article 5º 
+  - Article 25º 
+  - Article 32º 
+  - Section 4 (Data Protection Officer)  
 
 
 + If the group chooses the ISO 27552 draft, it should review the following section and write a short text (between 1/2 and 1 A4 page) that reflects on the implications that this point has on software development and / or operation.
-  - 6.4 (_Human resource security_) e 6.5 (_Asset management_) - Groups 1, 5, 9, 13
-  - 6.9 (_Operations Security_) - Groups 2, 6, 10, 14
-  - 6.13 (_Information security incident management_) -  Groups 3, 7, 11
-  - 6.15 (_Compliance_) - Groups 4, 8, 12
+  - 6.4 (_Human resource security_) e 6.5 (_Asset management_)  
+  - 6.9 (_Operations Security_)  
+  - 6.13 (_Information security incident management_)  
+  - 6.15 (_Compliance_)  
 
 
 + If the group chooses the _Handbook on European data protection law_, it should review the following section and write a short text (between 1/2 and 1 A4 page) reflecting on the implications of this subject for software development:
-  + _Lawfulness, fairness and transparency of processing principles_ - section 3.1 - Group 1, 13;
-  + _Principle of purpose limitation_ - section 3.2 - Group 2, 14;
-  + _Data minimisation principle_ - section 3.3 - Group 3;
-  + _Data accuracy principle_ - section 3.4 - Group 4;
-  + _Storage limitation principle_ - section 3.5 - Group 5;
-  + _Data security principle_ - section 3.6 - Group 6;
-  + _Accountability principle_ - section 3.7 - Group 7;
-  + _Right to be informed_ - section 6.1.1 - Group 8;
-  + _Right to rectification_  - section 6.1.2 - Group 9;
-  + _Right to erasure_ - section 6.1.3 - Group 10;
-  + _Right to restriction of processing_ - section 6.1.4 - Group 11;
-  + _Right to data portability_ - section 6.1.5 - Group 12;
+  + _Lawfulness, fairness and transparency of processing principles_ - section 3.1  
+  + _Principle of purpose limitation_ - section 3.2  
+  + _Data minimisation principle_ - section 3.3  
+  + _Data accuracy principle_ - section 3.4  
+  + _Storage limitation principle_ - section 3.5  
+  + _Data security principle_ - section 3.6  
+  + _Accountability principle_ - section 3.7  
+  + _Right to be informed_ - section 6.1.1  
+  + _Right to rectification_  - section 6.1.2  
+  + _Right to erasure_ - section 6.1.3  
+  + _Right to restriction of processing_ - section 6.1.4  
+  + _Right to data portability_ - section 6.1.5  
 
 
 Note that the analysis should only be done to one of the documents, and the group should choose which one it prefers, according to the previous rules.
 
 
-
-#### Experience 1.1
+#### Question P1.1
 
 ENISA (European Union Agency for Network and Information Security) has done an excellent job in producing relevant documentation for data protection.
 
 
-In the document  [_Recommendations on shaping technology according to GDPR provisions - An overview on data pseudonymisation_](Aula6/ENISA.WP2018-O.2.2.5-Recomendations-on-shaping-technology-according-to-GDPR-provisions-Part1.pdf) analyze the _Pseudonymisation techniques_ (section 3), and summarize them (between 1/2 and 1 page A4).
+In the document  [_Recommendations on shaping technology according to GDPR provisions - An overview on data pseudonymisation_](Aula6/ENISA.WP2018-O.2.2.5-Recomendations-on-shaping-technology-according-to-GDPR-provisions-Part1.pdf) analyze the _Pseudonymisation techniques_ (section 3), and summarize them (between 1/2 and 1 page A4) - Groups 1, 4, 7, 10, 13.
 
 
-In the document [_Recommendations on shaping technology according to GDPR provisions - Exploring the notion of data protection by default_](Aula6/ENISA.WP2018-O.2.2.5-Recommendations-on-shaping-technology-according-to-GDPR-provisions-Part2.pdf) analyze the _Data protection by default in practice_ (section 3), and summarize them (between 1/2 and 1 page A4).
+In the document [_Recommendations on shaping technology according to GDPR provisions - Exploring the notion of data protection by default_](Aula6/ENISA.WP2018-O.2.2.5-Recommendations-on-shaping-technology-according-to-GDPR-provisions-Part2.pdf) analyze the _Data protection by default in practice_ (section 3), and summarize them (between 1/2 and 1 page A4) - Groups 2, 5, 8, 11, 14.
 
-In the document [_Privacy and Data Protection by Design – from policy to engineering_](Aula6/ENISA.Privacy-and-Data-Protection-by-Design.pdf) analyze the eight strategies of _privacy design_ (section 3.2), and summarize them (between 1/2 and 1 page A4).
+In the document [_Privacy and Data Protection by Design – from policy to engineering_](Aula6/ENISA.Privacy-and-Data-Protection-by-Design.pdf) analyze the eight strategies of _privacy design_ (section 3.2), and summarize them (between 1/2 and 1 page A4) - Groups 3, 6, 9, 12.
 
 
 #### Experience 1.2
