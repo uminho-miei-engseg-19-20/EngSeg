@@ -2,7 +2,10 @@
 
 ## Announcements
 
+**16/Mar/2020**
 
+
+- The presentation of the sixth class was made available (go to [videos_aulas](videos_aulas)), divided into three parts.
 
 **15/Mar/2020**
 

@@ -3,6 +3,12 @@
 ## Avisos
 
 
+**16/Mar/2020**
+
+
+- Foi disponibilizada a apresentação da sexta aula na diretoria [videos_aulas](videos_aulas), dividida em três partes.
+
+
 **15/Mar/2020**
 
 
