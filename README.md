@@ -9,7 +9,7 @@
 - Foi disponibilizada a apresentação da sétima aula na diretoria [videos_aulas](videos_aulas), dividida em duas partes.
 - Foi disponibilizada a ficha de trabalho para a sétima aula.
 - Foram disponibilizados os slides para a sétima aula.
-- Para informações sobre a apresentação do primeiro projeto, clique [aqui](ProjetoES/projeto1.md) 
+- Para informações sobre a apresentação do primeiro projeto, clique [aqui](ProjetosES/projeto1.md) 
 
 
 
