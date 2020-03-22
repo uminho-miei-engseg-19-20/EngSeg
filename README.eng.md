@@ -8,6 +8,7 @@
 - The presentation of the seventh class was made available (go to [videos_aulas](videos_aulas)), divided into two parts.
 - The worksheet for the seventh class was made available.
 - The slides were made available for the seventh class.
+- For information on the presentation of the first project, click [here](ProjetoES/projeto1.eng.md)
 
 
 **16/Mar/2020**
