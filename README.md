@@ -3,6 +3,15 @@
 ## Avisos
 
 
+**22/Mar/2020**
+
+
+- Foi disponibilizada a apresentação da sétima aula na diretoria [videos_aulas](videos_aulas), dividida em duas partes.
+- Foi disponibilizada a ficha de trabalho para a sétima aula.
+- Foram disponibilizados os slides para a sétima aula.
+
+
+
 **16/Mar/2020**
 
 

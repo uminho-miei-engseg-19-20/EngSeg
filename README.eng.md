@@ -2,6 +2,14 @@
 
 ## Announcements
 
+**22/Mar/2020**
+
+
+- The presentation of the seventh class was made available (go to [videos_aulas](videos_aulas)), divided into two parts.
+- The worksheet for the seventh class was made available.
+- The slides were made available for the seventh class.
+
+
 **16/Mar/2020**
 
 
