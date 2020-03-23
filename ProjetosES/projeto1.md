@@ -22,10 +22,10 @@ A apresentação terá 20-25 minutos para exposição pelo grupo, e 5-10 minutos
 + Grupo 11 - [Principles for Software Assurance Assessment](https://safecode.org/wp-content/uploads/2015/11/SAFECode_Principles_for_Software_Assurance_Assessment.pdf) - 30/Mar/2020, 14h00
 + Grupo 2 - [Fundamental Practices for Secure Software Development, Third Edition](https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf) - 30/Mar/2020, 14h30
 + Grupo 12 - [Software Security Takes a Champion](https://safecode.org/wp-content/uploads/2019/02/Security-Champions-2019-.pdf) - 30/Mar/2020, 15h00
-+ Grupo 1 - [Tactical Threat Modeling](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf) - 30/Mar/2020, 15h30
++ Grupo 3 - [Tactical Threat Modeling](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf) - 30/Mar/2020, 15h30
 + Grupo 4 - [Managing Security Risks Inherent in the Use of Third-party Components](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TPC_Whitepaper.pdf) - 30/Mar/2020, 16h00
 + Grupo 6 - [Practices for Secure Development of Cloud Applications](https://safecode.org/wp-content/uploads/2018/01/SAFECode_CSA_Cloud_Final1213.pdf) - 30/Mar/2020, 16h30
-+ Grupo 3 - [Tactical Threat Modeling](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)- 06/Abr/2020, 14h00
++ Grupo 1 - [Tactical Threat Modeling](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)- 06/Abr/2020, 14h00
 + Grupo 5 - [Managing Security Risks Inherent in the Use of Third-party Components](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TPC_Whitepaper.pdf) - 06/Abr/2020, 14h30
 + Grupo 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md) - 06/Abr/2020, 15h00
 + Grupo 8 - [OWASP Mobile Application Security Verification Standard (MASVS)](https://mobile-security.gitbook.io/masvs/) - 06/Abr/2020, 15h30
