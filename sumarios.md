@@ -108,3 +108,7 @@ Ficha de trabalho incidindo sobre:
 -   Vulnerabilidade de codificação
 -   Continuação do projeto de desenvolvimento de Software
 
+
+## Semana 8 - 30/Mar/2020
+
+- Apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.

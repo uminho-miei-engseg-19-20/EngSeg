@@ -3,13 +3,22 @@
 ## Avisos
 
 
+
+**29/Mar/2020**
+
+- Foram alteradas as datas de apresentação do primeiro projeto, para quem tinha que apresentar a 6/Abr e 13/Abr, já que essas datas correspondem às férias da Páscoa. Consulte [aqui](ProjetosES/projeto1.md) as novas datas.
+- A aula de 30/Mar é apenas para apresentações do projeto 1, mas é suposto todos os alunos estarem presentes (em https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09).
+- Nas aulas de 20/Abr e 29/Abr, embora continuem as apresentações do projeto 1 (onde é suposto todos os alunos estarem presentes, em em https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09), também existirá aula Teórica e será fornecida ficha de trabalho.
+
+
+
 **22/Mar/2020**
 
 
 - Foi disponibilizada a apresentação da sétima aula na diretoria [videos_aulas](videos_aulas), dividida em duas partes.
 - Foi disponibilizada a ficha de trabalho para a sétima aula.
 - Foram disponibilizados os slides para a sétima aula.
-- Para informações sobre a apresentação do primeiro projeto, clique [aqui](ProjetosES/projeto1.md) 
+
 
 
 

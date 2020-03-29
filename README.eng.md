@@ -2,6 +2,13 @@
 
 ## Announcements
 
+
+**29/Mar/2020**
+
+- The dates of presentation of the first project were changed, for those who had to present on 6/Apr and 13/Apr, since these dates correspond to Easter holidays. See [here](ProjetosES/projeto1.eng.md) the new dates.
+- The class on March 30 is only for presentations of project 1, but all students are supposed to be present (at https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09).
+- In the classes of 20/Apr and 29/Apr, although the presentations of project 1 will continue (where all students are supposed to be present, at https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09), new class slides and worksheet will be provided.
+
 **22/Mar/2020**
 
 

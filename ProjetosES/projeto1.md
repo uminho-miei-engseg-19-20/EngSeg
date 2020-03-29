@@ -25,12 +25,12 @@ A apresentação terá 20-25 minutos para exposição pelo grupo, e 5-10 minutos
 + Grupo 3 - [Tactical Threat Modeling](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf) - 30/Mar/2020, 15h30
 + Grupo 4 - [Managing Security Risks Inherent in the Use of Third-party Components](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TPC_Whitepaper.pdf) - 30/Mar/2020, 16h00
 + Grupo 6 - [Practices for Secure Development of Cloud Applications](https://safecode.org/wp-content/uploads/2018/01/SAFECode_CSA_Cloud_Final1213.pdf) - 30/Mar/2020, 16h30
-+ Grupo 1 - [Tactical Threat Modeling](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)- 06/Abr/2020, 14h00
-+ Grupo 5 - [Managing Security Risks Inherent in the Use of Third-party Components](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TPC_Whitepaper.pdf) - 06/Abr/2020, 14h30
-+ Grupo 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md) - 06/Abr/2020, 15h00
-+ Grupo 8 - [OWASP Mobile Application Security Verification Standard (MASVS)](https://mobile-security.gitbook.io/masvs/) - 06/Abr/2020, 15h30
-+ Grupo 9 - [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/) - 06/Abr/2020, 16h00
-+ Grupo 13 - [Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - 06/Abr/2020, 16h30
-+ Grupo 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md) - 13/Abr/2020, 14h00
-+ Grupo 14 - [UC Secure Software Development Standard](https://security.ucop.edu/files/documents/policies/secure-software-development-standard.pdf) - 13/Abr/2020, 14h30
++ Grupo 1 - [Tactical Threat Modeling](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TM_Whitepaper.pdf)- 13/Abr/2020, 14h00
++ Grupo 5 - [Managing Security Risks Inherent in the Use of Third-party Components](https://safecode.org/wp-content/uploads/2017/05/SAFECode_TPC_Whitepaper.pdf) - 13/Abr/2020, 14h30
++ Grupo 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md) - 13/Abr/2020, 15h00
++ Grupo 8 - [OWASP Mobile Application Security Verification Standard (MASVS)](https://mobile-security.gitbook.io/masvs/) - 13/Abr/2020, 15h30
++ Grupo 9 - [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/) - 13/Abr/2020, 16h00
++ Grupo 13 - [Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - 20/Abr/2020, 14h00
++ Grupo 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md) - 20/Abr/2020, 14h30
++ Grupo 14 - [UC Secure Software Development Standard](https://security.ucop.edu/files/documents/policies/secure-software-development-standard.pdf) - 20/Abr/2020, 15h00
 
