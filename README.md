@@ -9,7 +9,8 @@
 - Foram alteradas as datas de apresentação do primeiro projeto, para quem tinha que apresentar a 6/Abr e 13/Abr, já que essas datas correspondem às férias da Páscoa. Consulte [aqui](ProjetosES/projeto1.md) as novas datas.
 - A aula de 30/Mar é apenas para apresentações do projeto 1, mas é suposto todos os alunos estarem presentes (em https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09).
 - Nas aulas de 20/Abr e 29/Abr, embora continuem as apresentações do projeto 1 (onde é suposto todos os alunos estarem presentes, em em https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09), também existirá aula Teórica e será fornecida ficha de trabalho.
-
+- Após a apresentação do projeto 1, cada elemento do Grupo de trabalho tem de enviar uma avaliação dos vários elementos do Grupo (incluindo-se a si próprio) por email, ao docente da UC (ver email nos slides da aula 1). Essa avaliação é entre 0 e 100 (sendo 100 o valor mais alto), e compara o trabalho que cada elemento do grupo teve nesse trabalho. 
+- De acordo com discussão e votação no slack da UC, não irá existir exame escrito, pelo que se irá  aumentar 10% às perguntas TPraticas (passa para 25%) e mantém-se os projetos (75%). Foi  alterado o slide 7 da aula 1, de modo a estar conforme esta decisão.
 
 
 **22/Mar/2020**

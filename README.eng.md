@@ -8,6 +8,8 @@
 - The dates of presentation of the first project were changed, for those who had to present on 6/Apr and 13/Apr, since these dates correspond to Easter holidays. See [here](ProjetosES/projeto1.eng.md) the new dates.
 - The class on March 30 is only for presentations of project 1, but all students are supposed to be present (at https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09).
 - In the classes of 20/Apr and 29/Apr, although the presentations of project 1 will continue (where all students are supposed to be present, at https://zoom.us/j/970921318?pwd=c3haUDRRWStJYjk1RE9YTnpzVWdJdz09), new class slides and worksheet will be provided.
+- After the presentation of project 1, each member of the Working Group has to send an evaluation of the various members of the Group (including himself) by email, to the UC professor (see email in the slides of class 1). This evaluation is between 0 and 100 (with 100 being the highest value), and compares the work that each member of the group has done in the project.
+- According to discussion and voting in slack, there will be no written exame. Slide 7 of class 1 was changed to conform to this decision.
 
 **22/Mar/2020**
 
