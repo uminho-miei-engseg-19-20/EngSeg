@@ -32,5 +32,5 @@ A apresentação terá 20-25 minutos para exposição pelo grupo, e 5-10 minutos
 + Grupo 9 - [OWASP Mobile Security Testing Guide (MSTG)](https://owasp.org/www-project-mobile-security-testing-guide/) - 20/Abr/2020, 16h00
 + Grupo 13 - [Mitigating the Risk of Software Vulnerabilities by Adopting a Secure Software Development Framework (SSDF)](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - 27/Abr/2020, 14h00
 + Grupo 10 - [OWASP Proactive Controls](https://github.com/OWASP/CheatSheetSeries/blob/master/IndexProactiveControls.md) - 27/Abr/2020, 14h30
-+ Grupo 14 - [UC Secure Software Development Standard](https://security.ucop.edu/files/documents/policies/secure-software-development-standard.pdf) - 207Abr/2020, 15h00
++ Grupo 14 - [UC Secure Software Development Standard](https://security.ucop.edu/files/documents/policies/secure-software-development-standard.pdf) - 27/Abr/2020, 15h00
 
