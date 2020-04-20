@@ -2,6 +2,12 @@
 
 ## Announcements
 
+**20/Apr/2020**
+
+- The presentation of the ninth class was made available (go to [videos_aulas](videos_aulas)).
+- The worksheet for the ninth class was made available.
+- The slides were made available for the ninth class.
+
 
 **29/Mar/2020**
 

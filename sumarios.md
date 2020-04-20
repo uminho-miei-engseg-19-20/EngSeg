@@ -97,9 +97,9 @@ Ficha de trabalho incidindo sobre:
 **Teórica**:
 
 -   Segurança de software
-  -   Conceitos
-  -   Vulnerabilidades
-  -   Desenvolvimento de software seguro
+    -   Conceitos
+    -   Vulnerabilidades
+    -   Desenvolvimento de software seguro
 
 **Prática**:
 
@@ -112,3 +112,15 @@ Ficha de trabalho incidindo sobre:
 ## Semana 8 - 30/Mar/2020
 
 - Apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
+
+## Semana 9 - 20/Abr/2020
+
+**Teórica**:
+
+-   Segurança de software
+    - Vulnerabilidade de Buffer overflow
+
+**Prática**:
+
+- Continuação da apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
+
