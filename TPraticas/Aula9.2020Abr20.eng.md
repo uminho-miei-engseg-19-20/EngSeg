@@ -12,7 +12,7 @@ Note that these exercises should be done in the virtual machine provided.
 
 **Instructions for anyone who is not using the virtual machine provided:**
 
-1. For this exercises you need to install **gdb** and **GDB-Peda**. It is suggested that you perform the following command sequence:
+1. For experience 1.8 you'll need to install **gdb** and **GDB-Peda**. It is suggested that you perform the following command sequence:
 > `sudo apt-get install gdb`
 >
 > `cd ~/`
@@ -21,7 +21,7 @@ Note that these exercises should be done in the virtual machine provided.
 >
 > `echo 'source ~/bin/peda/peda.py' | sudo tee --append ~/.gdbinit > /dev/null`
 
-2. Additionally, save the files in the directory [Aula 8](Aula8/codigofonte) to your local machine.
+2. Additionally, save the files in the directory [Aula 9](Aula9/codigofonte) to your local machine.
 
 
 

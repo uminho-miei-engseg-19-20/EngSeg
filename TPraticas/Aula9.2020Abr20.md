@@ -13,7 +13,7 @@ Note que estes exercícios devem ser feitos na máquina virtual disponibilizada.
 
 **Instruções para quem não esteja a utilizar a máquina virtual disponibilizada:**
 
-1. Para este ponto necessita de instalar o **gdb** e o **GDB-Peda**. Sugere-se que efetue a seguinte sequência de comandos:
+1. Para a experiência 1.8 necessita de instalar o **gdb** e o **GDB-Peda**. Sugere-se que efetue a seguinte sequência de comandos:
 > `sudo apt-get install gdb`
 >
 > `cd ~/`
@@ -22,7 +22,7 @@ Note que estes exercícios devem ser feitos na máquina virtual disponibilizada.
 >
 > `echo 'source ~/bin/peda/peda.py' | sudo tee --append ~/.gdbinit > /dev/null`
 
-2. Adicionalmente, grave os ficheiros na diretoria [Aula 8](Aula8/codigofonte) para a sua máquina local.
+2. Adicionalmente, grave os ficheiros na diretoria [Aula 9](Aula9/codigofonte) para a sua máquina local.
 
 
 
