@@ -21,7 +21,7 @@ Note that these exercises should be done in the virtual machine provided.
 >
 > `echo 'source ~/bin/peda/peda.py' | sudo tee --append ~/.gdbinit > /dev/null`
 
-2. Additionally, save the files in the directory [Aula 9](Aula9/codigofonte) to your local machine.
+2. Additionally, save the files in the directory [Aula 9](Aula9) to your local machine.
 
 
 

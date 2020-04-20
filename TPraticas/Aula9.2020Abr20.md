@@ -22,7 +22,7 @@ Note que estes exercícios devem ser feitos na máquina virtual disponibilizada.
 >
 > `echo 'source ~/bin/peda/peda.py' | sudo tee --append ~/.gdbinit > /dev/null`
 
-2. Adicionalmente, grave os ficheiros na diretoria [Aula 9](Aula9/codigofonte) para a sua máquina local.
+2. Adicionalmente, grave os ficheiros na diretoria [Aula 9](Aula9) para a sua máquina local.
 
 
 
