@@ -2,6 +2,13 @@
 
 ## Avisos
 
+**26/Abr/2020**
+
+- Foi disponibilizada a apresentação da décima aula na diretoria [videos_aulas](videos_aulas).
+- Foi disponibilizada a ficha de trabalho para a décima aula.
+- Foram disponibilizados os slides para a décima aula.
+
+
 **20/Abr/2020**
 
 - Foi disponibilizada a apresentação da nona aula na diretoria [videos_aulas](videos_aulas).

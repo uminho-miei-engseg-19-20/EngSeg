@@ -124,3 +124,14 @@ Ficha de trabalho incidindo sobre:
 
 - Continuação da apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
 
+## Semana 10 - 27/Abr/2020
+
+**Teórica**:
+
+-   Segurança de software
+    - Vulnerabilidade de inteiros
+
+**Prática**:
+
+- Continuação da apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
+
