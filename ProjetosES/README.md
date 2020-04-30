@@ -5,7 +5,7 @@ tópico" é uma componente de avaliação da cadeira de Engenharia de Segurança
 75% da nota final, e que é constituída por 3 projetos, a entregar nas seguintes datas:
 
 + Projeto 1 - 23/03/2020
-+ Projeto 2 - 04/05/2020
++ Projeto 2 - **11/05/2020** (nova data)
 + Projeto 3 - 08/06/2020
 
 

@@ -3,6 +3,11 @@
 ## Announcements
 
 
+**30/Apr/2020**
+
+The delivery date for project 2 has been postponed for one week. The new date is 11/05/2020.
+
+
 **26/Apr/2020**
 
 - The presentation of the tenth class was made available (go to [videos_aulas](videos_aulas)).

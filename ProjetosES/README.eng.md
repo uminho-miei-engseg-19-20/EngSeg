@@ -3,7 +3,7 @@
 As referred in the first class, the "Software development project" / "Research on a topic" is part of the evaluation of Engenharia de Segurança (worth 75% of the final grade), and consists of 3 projects to be delivered on the following dates:
 
 - Project 1 – 23/03/2020
-- Project 2 – 04/05/2020
+- Project 2 – **11/05/2020** (changed)
 - Project 3 – 08/06/2020
 
 These projects are done by a working group with a maximum of 3 elements.

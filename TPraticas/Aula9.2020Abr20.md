@@ -24,7 +24,7 @@ Note que estes exercícios devem ser feitos na máquina virtual disponibilizada.
 
 2. Adicionalmente, grave os ficheiros na diretoria [Aula 9](Aula9) para a sua máquina local.
 
-
+3. Utilize a opção `-fno-stack-protector` ao compilar com o gcc. Esta opção não permite a adição de canários pelo compilador (ver Experiência 1.8)
 
 #### Experiência 1.1 - Organização da memória do programa
 

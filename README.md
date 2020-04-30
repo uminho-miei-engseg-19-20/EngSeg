@@ -2,6 +2,11 @@
 
 ## Avisos
 
+**30/Abr/2020**
+
+A data de entrega do projeto 2 foi adiada por uma semana, passando para dia 11/05/2020.
+
+
 **26/Abr/2020**
 
 - Foi disponibilizada a apresentação da décima aula na diretoria [videos_aulas](videos_aulas).
