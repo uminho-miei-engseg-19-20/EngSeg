@@ -106,12 +106,13 @@ Ficha de trabalho incidindo sobre:
 Ficha de trabalho incidindo sobre:
 
 -   Vulnerabilidade de codificação
--   Continuação do projeto de desenvolvimento de Software
+
+Continuação do projeto de desenvolvimento de Software
 
 
 ## Semana 8 - 30/Mar/2020
 
-- Apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
+Apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
 
 ## Semana 9 - 20/Abr/2020
 
@@ -122,7 +123,13 @@ Ficha de trabalho incidindo sobre:
 
 **Prática**:
 
-- Continuação da apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
+
+Continuação da apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
+
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de Buffer overflow
+
 
 ## Semana 10 - 27/Abr/2020
 
@@ -133,5 +140,24 @@ Ficha de trabalho incidindo sobre:
 
 **Prática**:
 
-- Continuação da apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
+Continuação da apresentação do 1º projeto, efetuado pelos Grupos de Trabalho.
 
+Ficha de trabalho incidindo sobre:
+
+-   Vulnerabilidade de inteiros
+
+
+## Semana 11 - 04/Mai/2020
+
+**Teórica**:
+
+-   Segurança de software
+    - Validação de input
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Validação de input
+
+Continuação do projeto de desenvolvimento de Software

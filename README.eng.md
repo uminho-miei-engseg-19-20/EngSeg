@@ -3,6 +3,14 @@
 ## Announcements
 
 
+
+**02/May/2020**
+
+- The presentation of the 11th class was made available (go to [videos_aulas](videos_aulas)).
+- The worksheet for the 11th class was made available.
+- The slides were made available for the 11th class.
+
+
 **30/Apr/2020**
 
 The delivery date for project 2 has been postponed for one week. The new date is 11/05/2020.

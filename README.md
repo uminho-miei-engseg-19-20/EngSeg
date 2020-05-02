@@ -2,6 +2,14 @@
 
 ## Avisos
 
+
+**02/Mai/2020**
+
+- Foi disponibilizada a apresentação da décima-primeira aula na diretoria [videos_aulas](videos_aulas).
+- Foi disponibilizada a ficha de trabalho para a décima-primeira aula.
+- Foram disponibilizados os slides para a décima-primeira aula.
+
+
 **30/Abr/2020**
 
 A data de entrega do projeto 2 foi adiada por uma semana, passando para dia 11/05/2020.
