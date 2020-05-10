@@ -3,6 +3,13 @@
 ## Announcements
 
 
+**10/May/2020**
+
+- The presentation of the 12th class was made available (go to [videos_aulas](videos_aulas)).
+- The worksheet for the 12th class was made available.
+- The slides were made available for the 12th class.
+- The dates of presentation of the second project were published. See [here](ProjetosES/projeto2.eng.md).
+
 
 **02/May/2020**
 

@@ -3,6 +3,14 @@
 ## Avisos
 
 
+**10/Mai/2020**
+
+- Foi disponibilizada a apresentação da décima-segunda aula na diretoria [videos_aulas](videos_aulas).
+- Foi disponibilizada a ficha de trabalho para a décima-segunda aula.
+- Foram disponibilizados os slides para a décima-segunda aula.
+- Foi disponibilizado as datas de apresentação do segundo projeto. Consulte [aqui](ProjetosES/projeto2.md).
+
+
 **02/Mai/2020**
 
 - Foi disponibilizada a apresentação da décima-primeira aula na diretoria [videos_aulas](videos_aulas).

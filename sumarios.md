@@ -161,3 +161,23 @@ Ficha de trabalho incidindo sobre:
 -   Validação de input
 
 Continuação do projeto de desenvolvimento de Software
+
+
+## Semana 12 - 11/Mai/2020
+
+**Teórica**:
+
+- Riscos de segurança em aplicações Web (OWASP Top 10)
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- _Injection_
+- XSS
+- Quebra na Autenticação
+- Componentes Vulneráveis
+
+Continuação do projeto de desenvolvimento de Software
+
