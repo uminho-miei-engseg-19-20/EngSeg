@@ -76,7 +76,7 @@ Group 14  will analyze and explore Lint tools, namely the [ESLint](https://eslin
 
 ## 3. Project 3
 
-Based on what was learned as a result of Project 1 and Project 2, each group will develop in a different programming language, a command line application (CLI) that allows testing the operations of the SCMD service (Signature CMD), *reverse engineering* the application [CMD-SOAP](https://github.com/devisefutures/CMD-SOAP).
+Based on what was learned as a result of Project 1 and Project 2 (and theoretical classes, namely classes about secure programming), each group will develop in a different programming language, a command line application (CLI) that allows testing the operations of the SCMD service (Signature CMD), *reverse engineering* the application [CMD-SOAP](https://github.com/devisefutures/CMD-SOAP).
 
 
 + Group 1 - C

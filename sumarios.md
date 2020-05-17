@@ -181,3 +181,29 @@ Ficha de trabalho incidindo sobre:
 
 Continuação do projeto de desenvolvimento de Software
 
+
+## Semana 13 - 18/Mai/2020
+
+**Teórica**:
+
+ Segurança de software:
+
+  -   Revisão de conceitos relativos ao _Software Development Lifecycle_ (S-SDLC)
+  -   _Secure Software Development Lifecycle_ (S-SDLC)
+        - Introdução de segurança nos modelos convencionais de desenvolvimento de software
+        - Utilização de modelo de desenvolvimento de software seguro - caso do _Microsoft Security Development Lifecycle_
+        - Adição de segurança utilizando um Modelo de Maturidade - caso do _Software Assurance Maturity Model_ (SAMM)
+
+
+Apresentação do 2º projeto, efetuado pelos Grupos de Trabalho.
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+-   Secure Software Development Lifecycle (S-SDLC)
+- Modelo de Maturidade no projeto de desenvolvimento de Software
+
+
+Continuação do projeto de desenvolvimento de Software

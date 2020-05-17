@@ -3,6 +3,13 @@
 ## Announcements
 
 
+**16/May/2020**
+
+- The presentation of the 13th class was made available (go to [videos_aulas](videos_aulas)).
+- The worksheet for the 13th class was made available.
+- The slides were made available for the 13th class.
+
+
 **10/May/2020**
 
 - The presentation of the 12th class was made available (go to [videos_aulas](videos_aulas)).

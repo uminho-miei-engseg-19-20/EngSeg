@@ -3,6 +3,15 @@
 ## Avisos
 
 
+**16/Mai/2020**
+
+- Foi disponibilizada a apresentação da décima-terceira aula na diretoria [videos_aulas](videos_aulas).
+- Foi disponibilizada a ficha de trabalho para a décima-terceira aula.
+- Foram disponibilizados os slides para a décima-terceira aula.
+
+
+
+
 **10/Mai/2020**
 
 - Foi disponibilizada a apresentação da décima-segunda aula na diretoria [videos_aulas](videos_aulas).

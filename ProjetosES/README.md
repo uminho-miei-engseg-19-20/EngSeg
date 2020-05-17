@@ -77,7 +77,7 @@ O Grupo 14 irá analisar e explorar as ferramentas Lint, nomeadamente o [ESLint]
 
 ## 3. Projeto 3
 
-Baseado no que foi aprendido como resultado do Projeto 1 e Projeto 2, cada grupo irá desenvolver numa linguagem de programação distinta, uma aplicação comando linha (CLI) que permita testar as operações do serviço SCMD (Signature CMD), fazendo *reverse engineer* da aplicação [CMD-SOAP](https://github.com/devisefutures/CMD-SOAP).
+Baseado no que foi aprendido como resultado do Projeto 1 e Projeto 2 (e aulas teóricas da UC, nomeadamente na componente de programação segura), cada grupo irá desenvolver numa linguagem de programação distinta, uma aplicação comando linha (CLI) que permita testar as operações do serviço SCMD (Signature CMD), fazendo *reverse engineer* da aplicação [CMD-SOAP](https://github.com/devisefutures/CMD-SOAP).
 
 + Grupo 1 - C
 + Grupo 2 - Rust
@@ -99,4 +99,5 @@ No final deverá disponibilizar o código e relatório no github (ou gitlab ou s
 + Técnicas de desenvolvimento seguro de software que utilizou, e como as aplicou;
 + Ferramentas e indicadores de qualidade  de software utilizados, e com que resultados;
 + Modo de testar o código desenvolvido.
+
 
