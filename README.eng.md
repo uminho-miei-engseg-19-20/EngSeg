@@ -3,6 +3,11 @@
 ## Announcements
 
 
+**22/May/2020**
+
+Since there will be no test or exam in this UC, the delivery of project 3 been postponed to the 6th of July.
+
+
 **16/May/2020**
 
 - The presentation of the 13th class was made available (go to [videos_aulas](videos_aulas)).

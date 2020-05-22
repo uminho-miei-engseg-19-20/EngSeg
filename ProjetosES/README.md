@@ -6,7 +6,7 @@ tópico" é uma componente de avaliação da cadeira de Engenharia de Segurança
 
 + Projeto 1 - 23/03/2020
 + Projeto 2 - **11/05/2020** (nova data)
-+ Projeto 3 - 08/06/2020
++ Projeto 3 - **06/07/2020** |(nova data)
 
 
 Estes projetos são feitos por um grupo de trabalho com o máximo de 3 elementos.

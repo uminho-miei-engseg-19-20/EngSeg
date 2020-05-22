@@ -4,7 +4,7 @@ As referred in the first class, the "Software development project" / "Research o
 
 - Project 1 – 23/03/2020
 - Project 2 – **11/05/2020** (changed)
-- Project 3 – 08/06/2020
+- Project 3 – **06/07/2020** (changed)
 
 These projects are done by a working group with a maximum of 3 elements.
 

@@ -3,6 +3,10 @@
 ## Avisos
 
 
+**22/Mai/2020**
+
+Como não vai existir teste nem exame já que a UC é feita por trabalhos, a entrega do TP3 pode ser efetuada até ao dia 6/Julho.
+
 **16/Mai/2020**
 
 - Foi disponibilizada a apresentação da décima-terceira aula na diretoria [videos_aulas](videos_aulas).
