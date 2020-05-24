@@ -3,6 +3,13 @@
 ## Avisos
 
 
+**24/Mai/2020**
+
+- Foi disponibilizada a apresentação da décima-quarta aula na diretoria [videos_aulas](videos_aulas).
+- Foi disponibilizada a ficha de trabalho para a décima-quarta aula.
+- Foram disponibilizados os slides para a décima-quarta aula.
+
+
 **22/Mai/2020**
 
 Como não vai existir teste nem exame já que a UC é feita por trabalhos, a entrega do TP3 pode ser efetuada até ao dia 6/Julho.

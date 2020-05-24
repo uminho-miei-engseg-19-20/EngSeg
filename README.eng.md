@@ -3,9 +3,16 @@
 ## Announcements
 
 
+**24/May/2020**
+
+- The presentation of the 14th class was made available (go to [videos_aulas](videos_aulas)).
+- The worksheet for the 14th class was made available.
+- The slides were made available for the 14th class.
+
+
 **22/May/2020**
 
-Since there will be no test or exam in this UC, the delivery of project 3 been postponed to the 6th of July.
+Since there will be no test or exam in this UC, the delivery of project 3 has been postponed to the 6th of July.
 
 
 **16/May/2020**

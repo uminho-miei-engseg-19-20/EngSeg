@@ -207,3 +207,27 @@ Ficha de trabalho incidindo sobre:
 
 
 Continuação do projeto de desenvolvimento de Software
+
+
+
+## Semana 14 - 25/Mai/2020
+
+**Teórica**:
+
+ Segurança de software:
+
+- Princípios de projeto de software
+- Evitar as Vulnerabilidades de Projeto predominantes
+
+
+Apresentação do 2º projeto, efetuado pelos Grupos de Trabalho.
+
+
+**Prática**:
+
+Ficha de trabalho incidindo sobre:
+
+- Princípios de projeto de software
+
+
+Continuação do projeto de desenvolvimento de Software

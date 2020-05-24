@@ -97,7 +97,7 @@ Baseado no que foi aprendido como resultado do Projeto 1 e Projeto 2 (e aulas te
 No final deverá disponibilizar o código e relatório no github (ou gitlab ou similar), devendo explicitar no relatório:
 
 + Técnicas de desenvolvimento seguro de software que utilizou, e como as aplicou;
-+ Ferramentas e indicadores de qualidade  de software utilizados, e com que resultados;
++ Ferramentas e indicadores de qualidade  de software utilizados e/ou testes de software, e com que resultados;
 + Modo de testar o código desenvolvido.
 
 
