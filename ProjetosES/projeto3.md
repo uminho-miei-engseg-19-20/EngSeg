@@ -23,3 +23,7 @@ A apresentação terá 20-25 minutos para exposição pelo grupo, e 5-10 minutos
 
 
 A determinar com o grupo - por favor enviem-me mail com várias opções para a semana de 20/Julho/2020.
+
+Estão já marcadas as seguintes entregas:
+
+ + Grupo 6 - 20/07/2020, 14h30

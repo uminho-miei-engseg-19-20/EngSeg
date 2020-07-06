@@ -23,3 +23,6 @@ The group will have 20-25 minutes for presentation, followed by 5-10 minutes for
 #### Date and time
 
 To be determined with the group - please send me mail with several options for the week of 20/July/2020.
+
+
+See also "Data e hora" in [projeto3.md](projeto3.md).
