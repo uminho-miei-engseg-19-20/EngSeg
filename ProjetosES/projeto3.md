@@ -22,8 +22,15 @@ A apresentação terá 20-25 minutos para exposição pelo grupo, e 5-10 minutos
 #### Data e hora
 
 
-A determinar com o grupo - por favor enviem-me mail com várias opções para a semana de 20/Julho/2020.
+A determinar com o grupo - por favor enviem-me mail (ou através do slack) com várias opções para a semana de 20/Julho/2020.
 
 Estão já marcadas as seguintes entregas:
 
  + Grupo 6 - 20/07/2020, 14h30
+ + Grupo 7 - 20/07/2020, 15h00
+ + Grupo 10 - 20/07/2020, 15h30
+ + Grupo 1 - 20/07/2020, 16h00
+ + Henrique Faria - 20/07/2020, 16h30
+
+ + Grupo 5 - 21/07/2020, 14h30
+
