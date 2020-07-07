@@ -32,5 +32,8 @@ Estão já marcadas as seguintes entregas:
  + Grupo 1 - 20/07/2020, 16h00
  + Henrique Faria - 20/07/2020, 16h30
 
+ + Grupo 2 - 21/07/2020, 12h00
  + Grupo 5 - 21/07/2020, 14h30
+ + Grupo 13 - 21/07/2020, 15h00
+
 
