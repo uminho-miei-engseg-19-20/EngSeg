@@ -26,6 +26,7 @@ A determinar com o grupo - por favor enviem-me mail (ou através do slack) com v
 
 Estão já marcadas as seguintes entregas:
 
+ + Grupo 8 - 20/07/2020, 12h00
  + Grupo 6 - 20/07/2020, 14h30
  + Grupo 7 - 20/07/2020, 15h00
  + Grupo 10 - 20/07/2020, 15h30
