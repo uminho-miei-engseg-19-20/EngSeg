@@ -37,5 +37,6 @@ Estão já marcadas as seguintes entregas:
  + Grupo 5 - 21/07/2020, 14h30
  + Grupo 13 - 21/07/2020, 15h00
  + Grupo 3 - 21/07/2020, 15h30
+ + Grupo 11 - 21/07/2020, 16h00
 
  + Grupo 12 - 22/07/2020, 14h30
